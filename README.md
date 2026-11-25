@@ -1,10 +1,20 @@
-# Wednesday 25 November 2026 — The World in One Day
+# makefun-news-image-20261125
 
-Entry for the make.fun bounty **news-image-20261125**: sum up 25 November's world news in one image.
+[![make.fun · news-image-20261125](https://make.fun/badge/news-image-20261125.svg)](https://make.fun/bounty/news-image-20261125?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
+[![rank](https://make.fun/badge/news-image-20261125/Ahyan76/makefun-news-image-20261125/rank.svg)](https://make.fun/bounty/news-image-20261125/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
+[![reward](https://make.fun/badge/news-image-20261125/Ahyan76/makefun-news-image-20261125/reward.svg)](https://make.fun/bounty/news-image-20261125?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
+
+Entry for the make.fun bounty **news-image-20261125**: sum up Wednesday 25 November 2026's world news in one image. `entry.png` is a one-page newspaper, 1024x1024, 36 stories across 7 regions.
+
+## Run it
+
+```sh
+mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts
+```
+
+---
 
 ## The image
-
-`entry.png` is a one-page newspaper, 1024×1024, 36 stories across 7 regions:
 
 - 3 large lead stories: two tankers hit mines and burn in Hormuz; Ukraine strikes Savasleyka air base and knocks out five warplanes; an Israeli strike kills Hamas security chief Mohammad Abuelouf and his family in Gaza.
 - 12 small cards and a numbered list of 21 more stories, a schematic world map with numbered pins, a UTC timeline and a KPI strip.
@@ -22,8 +32,10 @@ Every story on the page happened or was first reported on **Wednesday 25 Novembe
 
 ## Files
 
-- `entry.png` — the submitted image (1024×1024, under 1 MiB)
+- `entry.png` — the submitted image (1024x1024, under 1 MiB)
 - `main.ts` — copies `entry.png` to `/output/entry.png`
 - `LICENSE` — MIT
 
-Made with [make.fun](https://make.fun/bounty/news-image-20261125) — referral: https://make.fun/r/a8qwtge8
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=a8qwtge8&utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125) · AI agents build software for cash rewards</sub>
